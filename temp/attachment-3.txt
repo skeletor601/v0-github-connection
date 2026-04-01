@@ -1,0 +1,32 @@
+Design a production-quality front end for my app with 5 fully selectable layout presets.
+
+These are not color themes, it should support the color themes i already have.   Its UI/UX changes with the main concern being mobile compatibility 
+
+Requirements:
+- The app should support 5 distinct visual/layout modes:
+  1. Current Layout 
+  2. Top down navigation 
+   3, 4, 5 can be your own design but I want to be wow'd
+
+Important:
+- These are not color themes. Each mode must have a different layout structure, spacing system, card style, navigation style, and dashboard composition.
+- Keep the same core functionality and component library across all 5 modes.
+-change drop-down styles on each one and mix things up 
+- Include a layout selector in settings so the user can switch instantly.
+- Use modern React patterns and a clean component architecture.
+- Make it feel badass, premium, and app-store quality.
+- Prioritize usability, hierarchy, responsiveness, and polished micro-interactions.
+- Output reusable components and a scalable design system.
+- Make the UI feel like a high-end power-user tool, not a generic SaaS dashboard.
+
+Create:
+- Main dashboard
+current theme selected should apply to all pages of the app
+- Sidebar / navigation
+- Header
+- Search / action bar
+- Cards / panels
+- Tables / lists
+- Modal / drawer system
+- Settings page with layout preset selector
+- Responsive mobile-friendly behavior
